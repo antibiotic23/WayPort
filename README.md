@@ -15,3 +15,12 @@ After successful verification of OTP , a JSON response is shown on browser which
 "OTP Verified" and assign a token to the user upon verification.
 The JSON response shows the token which is generated using JWT and can be further used for session management
 
+1. **Landing Page**:
+   - Access the landing page at `/`. This is the initial view of the application.
+
+   ![Landing Page Screenshot](images/landing.png)
+
+2. **OTP Verification**:
+   - Enter the OTP in the provided field.
+
+   ![OTP Verification Screenshot](images/enterOTP.png)
