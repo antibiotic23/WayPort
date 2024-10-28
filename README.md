@@ -33,4 +33,4 @@ The JSON response shows the token which is generated using JWT and can be furthe
 4. **JSON Response**:
    - JSON resposne shows the JWT token which is assigned to that user  upon successful OTP verification.
 
-   ![OTP Verification Screenshot](images/JSONresponse.png)
+   ![OTP Verification Screenshot](images/JSONresposne.png)
