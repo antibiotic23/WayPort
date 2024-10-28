@@ -24,3 +24,13 @@ The JSON response shows the token which is generated using JWT and can be furthe
    - Enter the OTP in the provided field.
 
    ![OTP Verification Screenshot](images/enterOTP.png)
+
+3. **OTP Verification**:
+   - Check OTP in console.log
+
+   ![OTP Verification Screenshot](images/checkConsole.png)
+
+4. **JSON Response**:
+   - JSON resposne shows the JWT token which is assigned to that user  upon successful OTP verification.
+
+   ![OTP Verification Screenshot](images/JSONresponse.png)
